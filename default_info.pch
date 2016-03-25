@@ -1,0 +1,34 @@
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+
+
+#define ANIMATION_DURATION		0.2
+
+
+// #define TAPJOY_APP_ID				@"785ad166-df92-4a3b-808f-34f470419250"
+//#define FLURRY_APPLICATION_KEY		@"6M854BVGQCRXF4GJXXQN"
+//#define APP_ZING_APP_ID				@"DCJNOPLD7446LSHP"
+
+// dss BUG //
+//
+// this is the AdMob ID from •••my•••  Free Video Poker! app
+#define ADMOB_PUBLISHER_ID	@"a14c23f50384b2a"
+// dss ^ //
+
+#define DEFAULT_SHARE_BY_EMAIL_MESSAGE_TITLE	@"Check out this Lockscreen!"
+#define DEFAULT_SHARE_BY_EMAIL_MESSAGE_CONTENT	@"Hey, I thought you'd like this lockscreen for iPhone!</a>!"
+
+
+#define FACEBOOK_API_KEY			@"9dd2e883e26bd3ab79bfd51d6aedf9b3"
+#define FACEBOOK_APPLICATION_ID		@"145441255485827"
+#define FACEBOOK_APPLICATION_SECRET	@"8580b327f279428eceb3c8790dc9d135"
+
+
+#define FACEBOOK_IMAGE_CAPTION		@"Check out this great wallpaper image from App Frames for iPhone http://itunes.apple.com/us/app/app-frame-backgrounds/id383056202?mt=8"
+#define FACEBOOK_UPLOAD_IMAGE_ALERT_MESSAGE			@"The wallpaper has been uploaded to Facebook"
+#define FACEBOOK_UPLOAD_IMAGE_ALERT_MESSAGE_TITLE	@"Facebook upload successfull"
+
+#define FACEBOOK_ERROR_MESSAGE_TITLE	@"ERROR"
+#define FACEBOOK_ERROR_MESSAGE			@"Facebook error"

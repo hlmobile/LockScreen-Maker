@@ -1,0 +1,94 @@
+//
+// Prefix header for all source files of the 'wallPaper' target in the 'wallPaper' project
+//
+#import <Availability.h>
+#import "default_info.pch"
+#define MOVIE_PLIST_FILENAME    @"pz_frames_pro_menu.plist"
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iPhone SDK 3.0 and later."
+#endif
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#endif
+#define FacebookAppID    @"355198514515820"
+/**********************************************************
+ 
+ Make sure these are up-to-date before submitting
+ 
+ ***********************************************************/
+
+//#define MOVIE_PLIST_FILENAME    @"pz_frames_pro_menu.plist"
+#define FLURRY_APPLICATION_KEY  @"49E8PLJTL8BZ6MZH43ZY"
+
+//
+// AppZing/Nag
+//
+#define USE_ZING_OR_NAG_AT_LAUNCH               1
+#define PERCENT_CHANCE_OF_ZING_INSTEAD_OF_NAG   0
+#define DELAY_BEFORE_SHOWING_NAG_SCREEN         4.0f
+
+//
+// 
+//
+#define APP_ZING_APP_ID                         @"033TNKGA9QHQ403N"
+#define NAG_FILE_URL                            @"http://gilgameshnag.s3.amazonaws.com/nag_insults.txt"
+
+/**********************************************************
+ 
+ End of the "Make sure this stuff is correct" section
+ 
+ ***********************************************************/
+
+//
+// AdMob
+//
+#define USE_ADMOB_ADS_ON_TOP_OF_WALLPAPER   0
+
+
+//
+// Set to 0 to turn off, 1 to turn on -- this shows an (i) button on the wallpaper view
+// If clicked it displays a dialog that shows metadata from each image. The info is in the menu.plist file for this app.
+// The values go in Credits, URL and Instructions
+//
+#define SHOW_INFO_BUTTON_ON_WALLPAPER       1
+#define SHOW_SHARE_BUTTON_ON_WALLPAPER      1
+
+//
+// Share by email settings
+//
+//#define DEFAULT_SHARE_BY_EMAIL_MESSAGE_TITLE     @"Check out this wallpaper!"
+//#define DEFAULT_SHARE_BY_EMAIL_MESSAGE_CONTENT   @"Hey, I thought you'd like this wallpaper for your iPhone/iPod that creates a frame for your apps.  I found it in <a href=\"http://itunes.apple.com/us/app/app-frames-hd-wallpapers/id383056202?mt=8&uo=4\">App Frames by Pocket Zebra</a>!"
+
+//
+// Share on Facebook settings
+//
+//#define FACEBOOK_API_KEY            @"b654554960d1a0bb510562baf4384ef4"
+//#define FACEBOOK_APPLICATION_ID     @"145441255485827"
+////#define FACEBOOK_APPLICATION_SECRET @"004239746c694a8133edb5db489c3b79"
+//#define FACEBOOK_IMAGE_CAPTION      @"Frame your iPhone/iPod apps with this wallpaper from App Frames http://itunes.apple.com/us/app/app-frames-hd-wallpapers/id383056202?mt=8&uo=4"
+
+
+//
+// TapJoy
+//
+#define USE_TAPJOY      0
+
+// Old AdMob setting for video
+#define USE_ADMOB_VIDEO_ADS					0
+
+
+// Image loading
+// Old not-so-good on iPhone 4 version
+#define IMAGE_WITH_CONTENTS(filename) [UIImage imageWithContentsOfFile:[[NSBundle mainBundle] pathForResource:filename ofType:nil]]
+// New, works on iPhone 4 version -- hi-res support
+#define IMAGE_WITH_CONTENTS_2X_SUPPORT(filename) [UIImage imageWithContentsOfResolutionIndependentFile:[[NSBundle mainBundle] pathForResource:filename ofType:nil]]
+
+#define LOAD_IMAGE(filename) IMAGE_WITH_CONTENTS(filename)
+#define LOAD_IMAGE_WITH_2X_SUPPORT(filename) IMAGE_WITH_CONTENTS_2X_SUPPORT(filename)

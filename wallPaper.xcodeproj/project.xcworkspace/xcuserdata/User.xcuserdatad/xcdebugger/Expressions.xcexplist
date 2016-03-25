@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[step3 actionSheet:clickedButtonAtIndex:]:step3.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "imgForUpload">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HFViewController viewDidLoad]:HFViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HFViewController postPhotoClick:]:HFViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

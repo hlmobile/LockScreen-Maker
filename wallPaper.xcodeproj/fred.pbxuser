@@ -1,0 +1,305 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* wallPaperAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1398, 3354}}";
+			sepNavSelRange = "{3586, 0}";
+			sepNavVisRange = "{3551, 479}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* wallPaper */ = {
+		activeExec = 0;
+		executables = (
+			B6069E661254FC470007F4DE /* wallPaper */,
+		);
+	};
+	28A0AAE50D9B0CCF005BE974 /* wallPaper_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {750, 309}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 262}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = B6069E661254FC470007F4DE /* wallPaper */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* wallPaper */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* wallPaper */,
+		);
+		codeSenseManager = B6069E831254FC670007F4DE /* Code sense */;
+		executables = (
+			B6069E661254FC470007F4DE /* wallPaper */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					572,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					532,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 381094629;
+			PBXWorkspaceStateSaveDate = 381094629;
+		};
+		perUserProjectItems = {
+			B6221F5D12E7FFF600E62252 /* PBXTextBookmark */ = B6221F5D12E7FFF600E62252 /* PBXTextBookmark */;
+			B6596560131568AA00C3AD34 /* PBXBookmark */ = B6596560131568AA00C3AD34 /* PBXBookmark */;
+			B67B33821293399900AEB978 /* PBXTextBookmark */ = B67B33821293399900AEB978 /* PBXTextBookmark */;
+			B67B33831293399900AEB978 /* PBXTextBookmark */ = B67B33831293399900AEB978 /* PBXTextBookmark */;
+			B691B79113D3FCC30062829D /* PlistBookmark */ = B691B79113D3FCC30062829D /* PlistBookmark */;
+			B691B79213D3FCC30062829D /* PBXTextBookmark */ = B691B79213D3FCC30062829D /* PBXTextBookmark */;
+			B691B79313D3FCC30062829D /* PBXTextBookmark */ = B691B79313D3FCC30062829D /* PBXTextBookmark */;
+			B691B79413D3FCC30062829D /* PlistBookmark */ = B691B79413D3FCC30062829D /* PlistBookmark */;
+			B691B79513D3FCC30062829D /* PlistBookmark */ = B691B79513D3FCC30062829D /* PlistBookmark */;
+			B691B79613D3FCC30062829D /* PlistBookmark */ = B691B79613D3FCC30062829D /* PlistBookmark */;
+			B698130416B72B540095D2D9 /* PlistBookmark */ = B698130416B72B540095D2D9 /* PlistBookmark */;
+			B6E73641127786DF000DB380 /* PBXTextBookmark */ = B6E73641127786DF000DB380 /* PBXTextBookmark */;
+			B6EE76111318C9CE00987E77 /* PBXBookmark */ = B6EE76111318C9CE00987E77 /* PBXBookmark */;
+		};
+		sourceControlManager = B6069E821254FC670007F4DE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	52AF0CA31274B93500F81B10 /* TapjoyConnect.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3274, 1612}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1502}";
+		};
+	};
+	52AF0CA41274B93500F81B10 /* TapjoyConnect.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 3991}}";
+			sepNavSelRange = "{8, 0}";
+			sepNavVisRange = "{0, 703}";
+		};
+	};
+	7CC0C4431249F22000A749CD /* default_info.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1216, 455}}";
+			sepNavSelRange = "{609, 63}";
+			sepNavVisRange = "{0, 672}";
+		};
+	};
+	7CF62AE11251E1390064BC6C /* FBRequest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {803, 4758}}";
+			sepNavSelRange = "{6381, 0}";
+			sepNavVisRange = "{6153, 470}";
+		};
+	};
+	7CF62BF51251E9AA0064BC6C /* SessionViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3274, 3224}}";
+			sepNavSelRange = "{2098, 0}";
+			sepNavVisRange = "{2036, 303}";
+		};
+	};
+	B6069E661254FC470007F4DE /* wallPaper */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = wallPaper;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B6069E821254FC670007F4DE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B6069E831254FC670007F4DE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B6221F5D12E7FFF600E62252 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* wallPaperAppDelegate.m */;
+		name = "wallPaperAppDelegate.m: 133";
+		rLen = 0;
+		rLoc = 3586;
+		rType = 0;
+		vrLen = 479;
+		vrLoc = 3551;
+	};
+	B6596560131568AA00C3AD34 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B6E735F612778015000DB380 /* Default@2x.png */;
+	};
+	B67B33821293399900AEB978 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 52AF0CA31274B93500F81B10 /* TapjoyConnect.h */;
+		name = "TapjoyConnect.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1502;
+		vrLoc = 0;
+	};
+	B67B33831293399900AEB978 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 52AF0CA41274B93500F81B10 /* TapjoyConnect.m */;
+		name = "TapjoyConnect.m: 2";
+		rLen = 0;
+		rLoc = 8;
+		rType = 0;
+		vrLen = 703;
+		vrLoc = 0;
+	};
+	B691B79113D3FCC30062829D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = B6E735EA12777F55000DB380 /* effectList.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/fred/Documents/Dropbox/PocketZebra/Projects/3D Lockscreen Maker - Project/effectList.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	B691B79213D3FCC30062829D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28A0AAE50D9B0CCF005BE974 /* wallPaper_Prefix.pch */;
+		name = "wallPaper_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 262;
+		vrLoc = 0;
+	};
+	B691B79313D3FCC30062829D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7CC0C4431249F22000A749CD /* default_info.pch */;
+		name = "default_info.pch: 24";
+		rLen = 63;
+		rLoc = 609;
+		rType = 0;
+		vrLen = 672;
+		vrLoc = 0;
+	};
+	B691B79413D3FCC30062829D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* wallPaper-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIconFiles,
+		);
+		name = "/Users/fred/Documents/Dropbox/PocketZebra/Projects/3D Lockscreen Maker - Project/wallPaper-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	B691B79513D3FCC30062829D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = B6E735E912777F55000DB380 /* backgroundList.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/fred/Documents/Dropbox/PocketZebra/Projects/3D Lockscreen Maker - Project/backgroundList.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	B691B79613D3FCC30062829D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 7CD5F0921238EDD400967723 /* content.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/fred/Documents/Dropbox/PocketZebra/Projects/3D Lockscreen Maker - Project/content.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	B698130416B72B540095D2D9 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 7CD5F0921238EDD400967723 /* content.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/FC 1TB Drive/Pocket Zebra/Projects/3D Lockscreen Maker - Project/content.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	B6E73641127786DF000DB380 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7CF62AE11251E1390064BC6C /* FBRequest.m */;
+		name = "FBRequest.m: 180";
+		rLen = 0;
+		rLoc = 6381;
+		rType = 0;
+		vrLen = 1036;
+		vrLoc = 5915;
+	};
+	B6EE76111318C9CE00987E77 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B6E735F512778015000DB380 /* Default.png */;
+	};
+}

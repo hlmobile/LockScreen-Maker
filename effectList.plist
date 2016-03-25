@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Photo Frames</string>
+		<array>
+<string>CategoryD_FX01.png</string><string>CategoryD_FX02.png</string><string>CategoryD_FX03.png</string><string>CategoryD_FX04.png</string><string>CategoryD_FX05.png</string>
+		</array>
+		<string>fx_PhotoFrames_tn.png</string>
+	</array>
+	<array>
+		<string>Bling Plus</string>
+		<array>
+<string>CategoryE_FX01.png</string><string>CategoryE_FX02.png</string><string>CategoryE_FX03.png</string><string>CategoryE_FX04.png</string><string>CategoryE_FX05.png</string>
+		</array>
+		<string>fx_BlingPlus_tn.png</string>
+	</array>
+	<array>
+		<string>Cool</string>
+		<array>
+<string>CategoryF_FX01.png</string><string>CategoryF_FX02.png</string><string>CategoryF_FX03.png</string><string>CategoryF_FX04.png</string><string>CategoryF_FX05.png</string>
+		</array>
+		<string>fx_Cool_tn.png</string>
+	</array>
+</array>
+</plist>

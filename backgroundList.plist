@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Pick from My Photos</string>
+		<array>
+			<string>Step_1.png</string>
+		</array>
+		<string>bg_thumbnail_gallery.png</string>
+	</array>
+	<array>
+		<string>Gradients</string>
+		<array>
+<string>CategoryA_BG01.jpg</string><string>CategoryA_BG02.jpg</string><string>CategoryA_BG03.jpg</string><string>CategoryA_BG04.jpg</string><string>CategoryA_BG05.jpg</string>
+		</array>
+		<string>bg_gradient_tn.png</string>
+	</array>
+	<array>
+		<string>Grunge</string>
+		<array>
+<string>CategoryB_BG01.jpg</string><string>CategoryB_BG02.jpg</string><string>CategoryB_BG03.jpg</string><string>CategoryB_BG04.jpg</string><string>CategoryB_BG05.jpg</string>
+		</array>
+		<string>bg_grunge_tn.png</string>
+	</array>
+	<array>
+		<string>Love</string>
+		<array>
+<string>CategoryC_BG01.jpg</string><string>CategoryC_BG02.jpg</string><string>CategoryC_BG03.jpg</string><string>CategoryC_BG04.jpg</string><string>CategoryC_BG05.jpg</string>
+		</array>
+		<string>bg_love.png</string>
+	</array>
+</array>
+</plist>

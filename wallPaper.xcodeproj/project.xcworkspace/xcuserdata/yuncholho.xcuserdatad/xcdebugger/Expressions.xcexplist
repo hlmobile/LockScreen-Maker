@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[step3 theSelector]:step3.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "d_width">
+            </PersistentString>
+            <PersistentString
+               value = "d_height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[wallPaperAppDelegate application:didFinishLaunchingWithOptions:]:wallPaperAppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "d_width">
+            </PersistentString>
+            <PersistentString
+               value = "d_height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
